@@ -46,7 +46,7 @@ def randomcitygenerator():
 
 def fetch_and_store_weather_data():
     # Weatherstack API details
-    API_KEY = 'bc9c765b2042f943ec52260311a4f541'
+    API_KEY = '#######################'
     BASE_URL = 'http://api.weatherstack.com/current'
     city = randomcitygenerator()
 
